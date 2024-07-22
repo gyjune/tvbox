@@ -22,7 +22,7 @@
 
 {"key":"爱奇异","name":"😈┃奇异官源┃秒播","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/gyjune/tianwei/raw/master/drpy2.min.js","ext":"https://gitee.com/gyjune/gwsp/raw/master/lib/aiqiyi.js"},
 
-{"key":"优酷","name":"😈┃优酷官源┃秒播","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/gyjune/tianwei/raw/master/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/优酷.js"},
+{"key":"优酷","name":"😈┃优酷官源┃秒播","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/gyjune/tianwei/raw/master/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/tvbox/main/lib/youku.js"},
 
 //{"key":"youku","name":"😈┃优酷官源┃秒播","type":3,"ua": "okhttp/3.15","api":"csp_youku","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
